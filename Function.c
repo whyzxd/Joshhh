@@ -6,8 +6,8 @@ void printMessage() {
 }
 
 void addnumbers(int a, int b) {
-    int sum = a + b;
-    printf("The sum of %d and %d is: %d\n", a, b, sum);
+    int addition = a + b;
+    printf("The addition of %d and %d is: %d\n", a, b, addition);
 }
 
 int square(int number) {
